@@ -34,7 +34,7 @@ Secure Downloading: Employ robust encryption methods to secure download processe
 To set up the Quran-MP3 application locally, follow these steps:
 
 1. Clone the repository:
-*   git clone https://github.com/AshrafEldesouky/QURANMP3_APiAutomation
+*   git clone https:https://github.com/AshrafEldesouky/FakstoreApi
 2. Navigate to the project directory:
 *   cd Quran-MP3
 3. Install dependencies:
