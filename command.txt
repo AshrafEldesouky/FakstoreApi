@@ -1,0 +1,1 @@
+newman run "FakeStoreCollection_APi'sTesting.postman_collection.json" -e FakeStoreAPi_TestingEnvironment.postman_environment.json --reporters=cli,htmlextra
